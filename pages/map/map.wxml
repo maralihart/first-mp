@@ -1,0 +1,3 @@
+
+<text class="title">Tesla Map</text>
+<map longitude="{{longitude}}" latitude="{{latitude}}" scale="{{scale}}"></map>

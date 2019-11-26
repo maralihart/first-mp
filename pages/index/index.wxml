@@ -1,0 +1,23 @@
+
+  <!-- <image src="images/kungfupanda.jpg"> -->
+
+<view class="container banner">
+
+  <!-- <image src="../images/kungfupanda.jpg"/> -->
+  
+  <view class="info">
+    <view class="section">
+      <text class="headline">Get new superpowers</text>
+    </view>
+
+    <view class="section">
+      <text class="action">Learn to code!</text>
+    </view>
+
+    <button class="primary section" bindtap="signup">Start today</button>
+
+    <button class="secondary section" bindtap="map">Locations</button>
+
+    <image class="logo" src="../images/logo.png"/>
+  </view>
+</view>
